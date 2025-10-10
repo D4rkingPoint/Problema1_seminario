@@ -1,0 +1,409 @@
+Author_Handle,Author_Name,Total_Tweets,Tweets_Per_Hour,CV_Intervalos,Ratio_Intervalos_Repetidos,Frecuencia_Intervalo_Comun,Intervalo_Comun_Segundos,Ratio_Duplicacion_Contenido,Ratio_Prefijos_Repetidos,Ratio_Retweets,Solo_Retweets,Horas_Activas,Entropia_Horaria,Ratio_Actividad_Madrugada,Engagement_Promedio,CV_Longitud,Indicadores_Bot,Verified,Bot_Score,Clasificacion
+lobofacho,Lobofacho™ 🇨🇱,8,0.0,1.279,0.0,0.143,4499.0,0.0,0.0,0,False,6,1.733,0.375,1993.38,0.191,5,True,100.0,Bot_Probable
+Chileno17039890,Chileno,11,0.0,1.352,0.0,0.1,38387.0,0.0,0.0,0,False,8,1.972,0.364,817.36,0.139,5,False,100.0,Bot_Probable
+ssuudp,Mufasa@uss.cl,6,0.0,0.894,0.0,0.2,3622.0,0.0,0.0,0,False,6,1.792,0.333,803.83,0.153,5,False,100.0,Bot_Probable
+Izq_Cristiana,Izquierda Cristiana de Chile,9,0.0,2.118,0.0,0.125,70596.0,0.0,0.0,0,False,6,1.677,0.333,555.44,0.127,5,False,100.0,Bot_Probable
+fastcheckcl,Fast Check CL,3,0.01,1.212,0.0,0.5,82799.0,0.667,0.667,0,False,3,1.099,0.0,1231.67,0.0,5,True,100.0,Bot_Probable
+CarlosNHcl,Carlos Sebastián N. Hernández 🖐🇨🇱,8,0.0,0.995,0.0,0.143,155715.0,0.125,0.125,0,False,6,1.733,0.25,917.12,0.124,4,False,80.0,Bot_Probable
+Hanzinho,Hans,9,0.0,1.526,0.0,0.125,0.0,0.111,0.111,0,False,6,1.677,0.0,464.0,0.176,4,False,80.0,Bot_Probable
+tio_Moscha,Tomas Mosciatti,6,0.0,0.756,0.0,0.2,925276.0,0.0,0.0,0,False,6,1.792,0.0,1243.83,0.093,4,False,80.0,Bot_Probable
+gerardopblaya,El Poeta del Corazón❤️,15,0.01,1.715,0.0,0.071,537.0,0.0,0.0,0,False,6,1.737,0.2,935.0,0.113,4,False,80.0,Bot_Probable
+ChilePortadas,Portadas Chile,28,0.02,1.938,0.0,0.037,0.0,0.036,0.107,0,False,9,1.992,0.107,628.75,0.188,4,True,80.0,Bot_Probable
+chvnoticias,CHV Noticias,9,0.0,1.519,0.0,0.125,11346.0,0.0,0.0,0,False,7,1.889,0.111,1605.44,0.137,4,True,80.0,Bot_Probable
+daniel_nunez_a,Daniel Nuñez A.,10,0.0,1.519,0.0,0.111,891.0,0.0,0.0,0,False,8,1.973,0.0,1704.7,0.183,4,False,80.0,Bot_Probable
+Lettus_Maglio,Emiliano Maglio 🇨🇱🇮🇹,14,0.0,1.435,0.0,0.077,9236.0,0.0,0.0,0,False,8,1.97,0.214,1759.07,0.144,4,False,80.0,Bot_Probable
+JouKaiserPrensa,JouKaiser_Prensa,7,0.0,1.016,0.0,0.167,126042.0,0.0,0.0,0,False,6,1.748,0.0,991.71,0.159,4,False,80.0,Bot_Probable
+RONUSAN,Rodrigo A.,12,0.01,1.461,0.0,0.091,439.0,0.0,0.0,0,False,8,1.936,0.083,633.33,0.099,4,False,80.0,Bot_Probable
+AgriculturaFM,Agricultura,11,0.0,1.246,0.0,0.1,18799.0,0.0,0.0,0,False,8,1.972,0.0,1194.27,0.131,4,True,80.0,Bot_Probable
+EquipoKast,Equipo Kast,11,0.0,1.492,0.0,0.1,101.0,0.0,0.0,0,False,7,1.846,0.0,810.82,0.148,4,False,80.0,Bot_Probable
+CarlosL53s,Carlos,8,0.0,0.842,0.0,0.143,98512.0,0.0,0.0,0,False,6,1.733,0.125,973.75,0.176,4,False,80.0,Bot_Probable
+Sinfiltros_tv,sinfiltros_tv,24,0.01,1.396,0.0,0.043,1652.0,0.0,0.0,0,False,7,1.536,0.042,716.88,0.122,4,True,80.0,Bot_Probable
+elmamertoeste,El Mamerto este,7,0.0,1.311,0.0,0.167,80638.0,0.0,0.0,0,False,6,1.748,0.286,883.29,0.156,4,False,80.0,Bot_Probable
+WaldoEBE,Waldo Ern Becerra,7,0.0,0.917,0.0,0.167,5632.0,0.0,0.0,0,False,6,1.748,0.429,1757.29,0.214,3,False,60.0,Bot_Probable
+espartiata369,Carlos Fernandez Retamales,19,0.0,1.313,0.0,0.056,3190.0,0.0,0.0,0,False,7,1.84,0.368,712.42,0.246,3,False,60.0,Bot_Probable
+PiensaPrensa,PIENSAPRENSA 357 mil Seguidores,8,0.0,1.385,0.0,0.143,17646.0,0.0,0.0,0,False,6,1.667,0.5,1085.0,0.285,3,True,60.0,Bot_Probable
+kawally,4️⃣Vito 🇨🇱⭐️🚜🌾,9,0.0,1.476,0.0,0.125,536.0,0.0,0.0,0,False,7,1.889,0.333,737.78,0.509,3,False,60.0,Bot_Probable
+Incorru47125032,"🇨🇱🚫Traidores, NO!!",12,0.0,1.263,0.0,0.091,41609.0,0.0,0.0,0,False,10,2.254,0.417,1678.83,0.119,3,False,60.0,Bot_Probable
+CarlosMaslaton,Carlos Maslatón,7,0.0,1.951,0.0,0.167,133.0,0.0,0.143,0,False,6,1.748,0.429,10884.86,0.277,3,True,60.0,Bot_Probable
+ArrepentidosLLA,Arrepentidos de Milei,8,0.0,1.447,0.0,0.143,18117.0,0.0,0.0,0,False,6,1.733,0.375,8041.62,0.489,3,True,60.0,Bot_Probable
+Cachoescalona1,Cacho Escalona,10,0.0,1.288,0.0,0.111,152671.0,0.0,0.1,0,False,6,1.609,0.4,854.2,0.2,3,False,60.0,Bot_Probable
+simonni17,🖐️simonni 🇨🇱,8,0.0,1.169,0.0,0.143,71787.0,0.0,0.0,0,False,7,1.906,0.375,770.5,0.369,3,False,60.0,Bot_Probable
+JackSpartanXX,Jack Spartan,8,0.0,1.005,0.0,0.143,428272.0,0.0,0.0,0,False,6,1.733,0.375,1483.62,0.579,3,True,60.0,Bot_Probable
+Info_War_Chile,Patriota Furioso / Info War Chile 🪖🇨🇱 En Guerra,23,0.01,1.804,0.0,0.045,885.0,0.0,0.0,0,False,10,2.201,0.043,945.65,0.106,2,False,40.0,Sospechoso
+Girealaderecha,Gire a la Derecha,6,0.0,1.413,0.0,0.2,443038.0,0.0,0.0,0,False,6,1.792,0.0,986.67,0.494,2,False,40.0,Sospechoso
+GonureL,Leo Gonure🇨🇱🇺🇸,7,0.0,1.296,0.0,0.167,16542.0,0.0,0.0,0,False,6,1.748,0.0,1270.71,0.584,2,True,40.0,Sospechoso
+rhon2008,🇦🇪Don Gato🇨🇱🇫🇷🇦🇪,12,0.0,1.38,0.0,0.091,75900.0,0.0,0.0,0,False,7,1.907,0.167,1015.17,0.344,2,False,40.0,Sospechoso
+MARCELOFAVAOK,MARCELO FAVA,8,0.0,1.009,0.0,0.143,7815.0,0.0,0.0,0,False,7,1.906,0.125,853.38,0.714,2,True,40.0,Sospechoso
+PuduElects,Pudú Elects,6,0.0,1.045,0.0,0.2,3782.0,0.0,0.0,0,False,6,1.792,0.0,462.33,0.267,2,False,40.0,Sospechoso
+yanez_arancibia,Víctor Yañez Arancibia 🇨🇱🇪🇸,8,0.0,1.22,0.0,0.143,7627.0,0.0,0.0,0,False,6,1.733,0.125,754.25,0.611,2,False,40.0,Sospechoso
+R4Zi3L_K4in,RΔziƎL 🖐🏼🔥,9,0.01,1.041,0.0,0.125,0.0,0.111,0.111,0,False,6,1.677,0.0,1374.56,0.762,2,False,40.0,Sospechoso
+DonDisperso,Sr. Disperso,8,0.0,1.368,0.0,0.143,3695.0,0.0,0.0,0,False,6,1.667,0.125,538.75,0.301,2,False,40.0,Sospechoso
+manuelsoteldo4,manuel soteldo,11,0.0,1.039,0.0,0.1,29001.0,0.0,0.0,0,False,6,1.72,0.091,1380.64,0.316,2,False,40.0,Sospechoso
+BarchiesiDip,Diputada Chiara Barchiesi 🇨🇱,10,0.0,1.327,0.0,0.111,25979.0,0.0,0.0,0,False,7,1.887,0.0,1641.3,0.245,2,False,40.0,Sospechoso
+marcoporchile,Marco Enríquez-Ominami,10,0.0,0.812,0.0,0.111,68460.0,0.0,0.0,0,False,7,1.834,0.0,2186.1,0.259,2,True,40.0,Sospechoso
+AlephEdu,Edu⁷,8,0.0,1.065,0.0,0.143,13799.0,0.0,0.0,0,False,6,1.667,0.125,381.75,0.258,2,False,40.0,Sospechoso
+RobertoMerken,Ciudadano Roberto Kiltro,155,0.03,3.063,0.006,0.013,26258.0,0.019,0.026,0,False,21,2.938,0.11,1532.15,0.846,2,True,40.0,Sospechoso
+elmostrador,El Mostrador,12,0.0,1.405,0.0,0.091,0.0,0.083,0.083,0,False,9,2.023,0.0,1386.58,0.108,2,True,40.0,Sospechoso
+luisingermanico,luisinlandaes.,15,0.0,1.498,0.0,0.071,19503.0,0.0,0.0,0,False,10,2.176,0.2,2187.67,0.02,2,False,40.0,Sospechoso
+Educaciongrat,Educación Gratuita,8,0.0,1.22,0.0,0.143,134947.0,0.0,0.0,0,False,6,1.733,0.125,650.5,0.301,2,False,40.0,Sospechoso
+GusandesGus,KAST 2025 REPUBLICANOS DE CHILE.,18,0.0,0.921,0.059,0.118,0.0,0.111,0.111,0,False,10,2.197,0.111,679.22,0.146,2,False,40.0,Sospechoso
+MatiAromi,Mati Aromi,13,0.0,1.75,0.0,0.083,281.0,0.0,0.0,0,False,8,1.925,0.154,3454.54,0.288,2,True,40.0,Sospechoso
+007Artemisa,Artemisa ⭐️,8,0.0,1.526,0.0,0.143,105206.0,0.0,0.0,0,False,7,1.906,0.125,972.5,0.37,2,False,40.0,Sospechoso
+jdelrio70,Javier del Río A Diputado D20,6,0.0,0.521,0.0,0.2,669785.0,0.0,0.0,0,False,6,1.792,0.167,670.83,0.311,2,True,40.0,Sospechoso
+Ein_Steamboy,Diego 🇨🇱✝️🧭,9,0.0,1.086,0.0,0.125,53050.0,0.0,0.0,0,False,6,1.735,0.222,438.89,0.248,2,False,40.0,Sospechoso
+Pillerin_,Pillerin 👍,11,0.0,1.859,0.0,0.1,6881.0,0.0,0.0,0,False,8,2.02,0.182,2571.27,0.199,2,False,40.0,Sospechoso
+rectaprovincia,rectaprovincia,7,0.0,1.961,0.0,0.167,78651.0,0.0,0.0,0,False,6,1.748,0.0,636.29,0.342,2,False,40.0,Sospechoso
+JMdel38,JM 🇨🇱🇨🇱,7,0.0,1.237,0.0,0.167,66278.0,0.0,0.0,0,False,6,1.748,0.143,409.0,0.329,2,False,40.0,Sospechoso
+Tor25899035,Thor,10,0.0,1.405,0.0,0.111,29853.0,0.0,0.0,0,False,8,2.025,0.3,2933.4,0.114,2,True,40.0,Sospechoso
+PauDiFontana8,🖐🏻Paulina Di Fontana 🇮🇹🇨🇱❤️,7,0.0,0.89,0.0,0.167,5605.0,0.0,0.0,0,False,6,1.748,0.0,793.43,0.259,2,False,40.0,Sospechoso
+andres20ad,Andrés 💪🕊 🍁,24,0.0,1.458,0.0,0.043,17167.0,0.0,0.0,0,False,13,2.427,0.042,1232.08,0.129,2,False,40.0,Sospechoso
+pnl_lascondes,PNL LasCondes,9,0.0,1.088,0.0,0.125,79644.0,0.0,0.0,0,False,6,1.677,0.0,616.89,0.279,2,False,40.0,Sospechoso
+crovanos,Christian Rovano - D° Sociales y D° Animales,11,0.0,1.619,0.0,0.1,3631.0,0.0,0.0,0,False,7,1.894,0.182,1208.73,0.412,2,False,40.0,Sospechoso
+patricionavia,Patricio Navia,6,0.0,0.937,0.0,0.2,108523.0,0.0,0.0,0,False,6,1.792,0.167,1760.33,0.232,2,False,40.0,Sospechoso
+eldesconcierto,El Desconcierto,12,0.0,1.121,0.0,0.091,0.0,0.083,0.083,0,False,5,1.424,0.0,1637.67,0.056,2,True,40.0,Sospechoso
+Soy_Tu_Aji,Isita,14,0.0,1.349,0.0,0.077,0.0,0.071,0.071,0,False,8,1.946,0.071,1055.93,0.571,2,True,40.0,Sospechoso
+partidodelorden,Partido del Orden 🇨🇱,23,0.0,2.408,0.0,0.045,0.0,0.043,0.043,0,False,9,1.971,0.261,546.52,0.521,2,False,40.0,Sospechoso
+Clabbem,Cristián Labbé M.,7,0.0,1.082,0.0,0.167,74403.0,0.0,0.0,0,False,5,1.55,0.0,1574.0,0.161,2,False,40.0,Sospechoso
+FernandoAmandi,Fernando Amandi Sr.🌐,6,0.0,1.401,0.0,0.2,621750.0,0.0,0.0,0,False,6,1.792,0.0,646.5,0.704,2,True,40.0,Sospechoso
+delosquesobran,La Voz De Los Que Sobran,31,0.01,1.671,0.0,0.033,438.0,0.0,0.0,0,False,6,1.352,0.0,1038.29,0.275,2,True,40.0,Sospechoso
+santiuribedel10,Santiago Uribe,9,0.0,1.004,0.0,0.125,18311.0,0.0,0.0,0,False,7,1.831,0.222,1732.67,0.754,2,True,40.0,Sospechoso
+petrogustavo,Gustavo Petro,7,0.0,1.137,0.0,0.167,129700.0,0.0,0.0,0,False,6,1.748,0.286,12188.71,0.897,2,True,40.0,Sospechoso
+psc_cristiano,Partido Social Cristiano,7,0.0,1.304,0.0,0.167,12163.0,0.0,0.0,0,False,6,1.748,0.286,721.0,0.308,2,False,40.0,Sospechoso
+JMilei,Javier Milei,8,0.0,1.383,0.0,0.143,24575.0,0.0,0.0,0,False,7,1.906,0.0,15976.12,0.945,2,True,40.0,Sospechoso
+WCreativo,🖐️Williams San Martin 🇨🇱 🇨🇱,8,0.0,0.893,0.0,0.143,1654.0,0.0,0.0,0,False,7,1.906,0.25,982.62,0.774,2,False,40.0,Sospechoso
+Gideon_Jeura,Moff Gideon 🇨🇱,12,0.0,1.31,0.0,0.091,913.0,0.0,0.0,0,False,7,1.748,0.0,1135.33,0.256,2,False,40.0,Sospechoso
+cherrAL62,Carlo,20,0.0,1.338,0.0,0.053,876.0,0.0,0.05,0,False,15,2.649,0.15,1074.4,0.183,2,False,40.0,Sospechoso
+lmrendon,Luis Mariano Rendón. Candidato Dip. D 10 🇨🇱🇵🇸,7,0.0,1.069,0.0,0.167,82290.0,0.0,0.0,0,False,7,1.946,0.0,968.71,0.365,2,False,40.0,Sospechoso
+TraductorTeAma,Traductor 🥹💕💐,7,0.0,1.276,0.0,0.167,12.0,0.0,0.143,0,False,6,1.748,0.286,821.86,0.698,2,True,40.0,Sospechoso
+santisiri,santi,7,0.0,1.38,0.0,0.167,992.0,0.0,0.0,0,False,6,1.748,0.286,3164.57,0.446,2,True,40.0,Sospechoso
+carlos81956718,carlos,19,0.0,1.314,0.0,0.056,1126.0,0.0,0.0,0,False,10,2.16,0.158,3690.89,0.103,2,False,40.0,Sospechoso
+matiasgarciard,Santiago Matias,9,0.0,1.638,0.0,0.125,70051.0,0.0,0.0,0,False,7,1.889,0.0,660.11,0.573,2,True,40.0,Sospechoso
+_istlady_,🇨🇱 Chile con Kaiser 🇨🇱 ⭐,197,0.05,4.031,0.0,0.005,0.0,0.01,0.01,0,False,21,2.813,0.193,823.85,0.306,2,False,40.0,Sospechoso
+adnradiochile,Radio ADN,41,0.01,1.77,0.025,0.05,0.0,0.098,0.122,0,False,16,2.545,0.171,2186.34,0.158,2,True,40.0,Sospechoso
+biobio,BioBioChile,119,0.02,2.575,0.017,0.025,0.0,0.025,0.025,0,False,18,2.692,0.05,1561.41,0.107,2,True,40.0,Sospechoso
+katitaporfia,CATALINA ARAYA,9,0.0,1.368,0.0,0.125,75069.0,0.0,0.0,0,False,6,1.581,0.111,1384.89,0.487,2,False,40.0,Sospechoso
+CNNChile,CNN Chile,71,0.01,2.334,0.0,0.014,0.0,0.014,0.042,0,False,18,2.699,0.085,1510.92,0.164,2,True,40.0,Sospechoso
+latercera,La Tercera,48,0.01,1.654,0.0,0.021,1194.0,0.021,0.042,0,False,17,2.591,0.062,1024.1,0.151,2,True,40.0,Sospechoso
+paubajoperfil,Piola 🇨🇱🇨🇱,11,0.0,1.08,0.0,0.1,34153.0,0.0,0.0,0,False,7,1.846,0.0,1891.09,0.433,2,False,40.0,Sospechoso
+gene_llerena,Gene F. Llerena,8,0.0,0.796,0.0,0.143,249725.0,0.0,0.0,0,False,7,1.906,0.125,878.75,0.508,2,False,40.0,Sospechoso
+pparcos1,Jose Miguel Arcos,9,0.0,2.032,0.0,0.125,19912.0,0.0,0.0,0,False,5,1.427,0.111,1516.11,0.13,2,False,40.0,Sospechoso
+sanchezdiputado,Diputado Luis F. Sanchez 👍🏻🇨🇱,6,0.0,1.222,0.0,0.2,80452.0,0.0,0.0,0,False,6,1.792,0.0,664.83,0.269,2,True,40.0,Sospechoso
+TarquinoPaspala,Tarquino Paspala,30,0.01,1.56,0.0,0.034,5748.0,0.0,0.0,0,False,11,2.194,0.267,968.9,0.087,2,False,40.0,Sospechoso
+MatiasBellolio,Matías Bellolio 🇨🇱♥️🖐️,26,0.01,1.5,0.0,0.04,702.0,0.0,0.0,0,False,15,2.578,0.038,931.46,0.043,2,False,40.0,Sospechoso
+ProfeMuyChilena,Chilena,21,0.0,1.284,0.0,0.05,0.0,0.048,0.048,0,False,8,2.004,0.0,1101.95,0.145,2,True,40.0,Sospechoso
+AmericaElige,America Elects,9,0.02,1.764,0.25,0.375,0.0,0.333,0.444,0,False,5,1.523,0.0,387.67,0.062,2,False,40.0,Sospechoso
+AXELKAISER,AXEL KAISER,8,0.0,0.941,0.0,0.143,70924.0,0.0,0.0,0,False,6,1.733,0.0,3617.88,0.866,2,True,40.0,Sospechoso
+maicajamarca_,Maicol Cajamarca,7,0.0,1.269,0.0,0.167,27416.0,0.0,0.0,0,False,7,1.946,0.143,3216.57,0.697,2,True,40.0,Sospechoso
+RepublicanoCh,Pedro Montecinos,7,0.01,1.948,0.0,0.167,12.0,0.0,0.0,0,False,6,1.748,0.143,704.29,0.456,2,False,40.0,Sospechoso
+GAMBA_CL,GAMBA,13,0.0,1.238,0.0,0.083,29735.0,0.077,0.308,0,False,10,2.245,0.0,1099.15,0.163,2,True,40.0,Sospechoso
+jaran_13,JEANNETTE JARA...PRESIDENTA DE CHILE !!,7,0.0,1.109,0.0,0.167,13093.0,0.0,0.0,0,False,6,1.748,0.0,834.57,0.229,2,False,40.0,Sospechoso
+KrAn_Libertario,KrAn ⭐️,8,0.0,1.27,0.0,0.143,82159.0,0.0,0.0,0,False,6,1.667,0.0,1328.12,0.31,2,True,40.0,Sospechoso
+White_Hunters,Aₛₜᵣₐ ζ͜͡ℂ𝕐𝔹𝔼ℝ ℍ𝕌ℕ𝕋𝔼ℝ𝕊 ͜͡ζ,6,0.0,1.497,0.0,0.2,18578.0,0.0,0.0,0,False,6,1.792,0.167,1310.83,0.451,2,True,40.0,Sospechoso
+sebastian_gray,Sebastián Gray,10,0.0,0.967,0.0,0.111,83522.0,0.0,0.0,0,False,7,1.887,0.1,1426.1,0.51,2,False,40.0,Sospechoso
+patriota_1972,1 + 1 Acción Patriota,7,0.0,1.292,0.0,0.167,1317.0,0.143,0.143,0,False,6,1.748,0.0,2049.43,0.271,2,True,40.0,Sospechoso
+JunyzConstant,PureChile 𝕏,7,0.0,1.099,0.0,0.167,2638.0,0.0,0.0,0,False,6,1.748,0.143,1361.14,0.49,2,False,40.0,Sospechoso
+galosanchez20,Martín Santomé,4,0.0,0.564,0.0,0.333,1254299.0,0.0,0.0,0,False,4,1.386,0.5,632.75,0.224,1,False,20.0,Humano
+FernandoLealA,Fernando Leal,4,0.0,0.521,0.0,0.333,990731.0,0.0,0.0,0,False,3,1.04,0.5,1056.75,0.538,1,False,20.0,Humano
+FlorMar91839709,Flor Maria🌳🌳🌳,3,0.0,0.115,0.0,0.5,6201923.0,0.0,0.0,0,False,3,1.099,0.333,718.0,0.467,1,False,20.0,Humano
+Aquelarre118,GRUPO AQUELARRE🗡️,5,0.0,1.171,0.0,0.25,89613.0,0.0,0.0,0,False,5,1.609,0.4,1477.8,1.172,1,True,20.0,Humano
+_ceciliaD,MCecilia,3,0.0,1.413,0.0,0.5,7507.0,0.0,0.0,0,False,3,1.099,0.333,2433.67,0.319,1,False,20.0,Humano
+camboue,Sebastian Da Silva,3,0.0,1.114,0.0,0.5,494586.0,0.0,0.0,0,False,3,1.099,0.333,854.0,0.751,1,True,20.0,Humano
+JairoLadino_,Jairo Ladino,3,0.0,1.141,0.0,0.5,429462.0,0.0,0.0,0,False,3,1.099,0.667,949.67,0.156,1,True,20.0,Humano
+ACambiarlos,#ChileEnManosDeCorruptos- Bloqueo zurdos bastardos,7,0.0,1.452,0.0,0.167,2366.0,0.0,0.0,0,False,4,1.352,0.571,796.0,0.377,1,False,20.0,Humano
+MatiasGarate15,Matias Garate,4,0.0,1.565,0.0,0.333,93575.0,0.0,0.0,0,False,3,1.04,1.0,1427.5,0.402,1,True,20.0,Humano
+Makitabecker,⚫️🟡Macarena Becker🏴🐍,3,0.0,0.856,0.0,0.5,2765227.0,0.0,0.0,0,False,2,0.637,0.667,865.0,0.288,1,False,20.0,Humano
+elpittttt,Piti,4,0.0,1.016,0.0,0.333,257630.0,0.0,0.0,0,False,3,1.04,0.5,2493.5,0.459,1,True,20.0,Humano
+FactosConAdrian,Adrian Ackerman,3,0.18,1.341,0.0,0.5,1600.0,0.0,0.0,0,False,3,1.099,0.667,2542.0,0.51,1,True,20.0,Humano
+Guigavilarrr,Guilherme Vilar 🦀,3,0.41,0.997,0.0,0.5,3889.0,0.0,0.0,0,False,3,1.099,0.667,499.33,0.016,1,False,20.0,Humano
+aline_patriarca,Aline Patriarca 🌪️,3,0.0,1.388,0.0,0.5,28785.0,0.0,0.0,0,False,3,1.099,0.333,1000.33,0.024,1,True,20.0,Humano
+michel778899,@michel®..🖐💚🇨🇱🇨🇱🇨🇱24/7 recuperemos Chile .,3,0.0,1.402,0.0,0.5,21094.0,0.0,0.0,0,False,3,1.099,0.333,1312.0,0.42,1,False,20.0,Humano
+ArayaManola,Manola Araya,3,0.0,0.806,0.0,0.5,2725860.0,0.0,0.0,0,False,3,1.099,0.333,1195.33,0.542,1,False,20.0,Humano
+JEQuintanaL,Jacqui del 38 %. 🇨🇱,5,0.0,0.567,0.0,0.25,714114.0,0.0,0.0,0,False,5,1.609,0.4,2293.6,0.38,1,True,20.0,Humano
+Martinminguchi,Martin Pallares,3,0.0,1.414,0.0,0.5,9.0,0.0,0.0,0,False,2,0.637,0.333,1497.0,0.111,1,False,20.0,Humano
+PipeAllendeM,Felipx Allende 🪏🏳️‍🌈💜🧡,5,0.0,0.91,0.0,0.25,253027.0,0.0,0.0,0,False,4,1.332,0.6,1337.2,0.696,1,True,20.0,Humano
+MajulLuisOK,Luis Majul,3,0.0,0.012,0.0,0.5,7574826.0,0.0,0.0,0,False,3,1.099,0.333,2519.33,0.583,1,False,20.0,Humano
+Elchemmsito2_0,Patipelao 🇨🇱 del 5️⃣5️⃣%,7,0.0,0.875,0.0,0.167,484183.0,0.0,0.0,0,False,4,1.277,0.429,1130.43,0.412,1,False,20.0,Humano
+vidalcvale,Valeria Cárcamo Vidal,3,0.0,1.261,0.0,0.5,292959.0,0.0,0.0,0,False,3,1.099,0.333,2808.0,0.421,1,True,20.0,Humano
+FerradaRafa,Rafael Montecinos Ferrada,5,0.0,1.245,0.0,0.25,160332.0,0.0,0.0,0,False,4,1.332,0.6,2276.0,0.513,1,False,20.0,Humano
+espinozacuellar,Jorge Espinoza Cuellar,6,0.0,1.737,0.0,0.2,76113.0,0.0,0.0,0,False,5,1.561,0.5,634.33,0.38,1,False,20.0,Humano
+liderfiscal,Valy 🎩🎭,3,0.0,0.64,0.0,0.5,3036510.0,0.0,0.0,0,False,3,1.099,0.333,1413.33,0.034,1,True,20.0,Humano
+KichaChilena,Kicha 🇨🇱🖐🏼,5,0.0,1.078,0.0,0.25,114745.0,0.0,0.0,0,False,4,1.332,0.4,1894.2,1.062,1,True,20.0,Humano
+pepe_auth,Pepe Auth,6,0.0,1.269,0.0,0.2,140.0,0.0,0.0,0,False,5,1.561,0.333,615.33,0.237,1,False,20.0,Humano
+CalderonBassi,Giovanni Calderon B.,4,0.0,0.872,0.0,0.333,47858.0,0.0,0.0,0,False,3,1.04,0.5,822.25,0.347,1,False,20.0,Humano
+elduckpost,ELDUCK,3,0.0,0.76,0.0,0.5,2887020.0,0.0,0.0,0,False,3,1.099,0.667,7590.33,0.502,1,True,20.0,Humano
+Digital_Chilean,🇨🇱 ANTICOMUNISTA digital ⭐️,5,0.0,0.669,0.0,0.25,744700.0,0.0,0.0,0,False,5,1.609,0.4,1944.0,0.638,1,False,20.0,Humano
+nometiente2,Marce Portilla ♥️,6,0.0,1.354,0.0,0.2,80567.0,0.0,0.0,0,False,5,1.561,0.5,464.83,0.61,1,True,20.0,Humano
+CristianGarciaC,Cristian Hugo García 🇨🇱,3,0.0,0.073,0.0,0.5,1476465.0,0.0,0.0,0,False,3,1.099,0.333,2030.67,0.609,1,False,20.0,Humano
+MatiMow,Matias Mowszet,3,0.0,0.821,0.0,0.5,2632944.0,0.0,0.0,0,False,3,1.099,0.333,3104.33,0.342,1,True,20.0,Humano
+LavanchyMarta,cat38%,3,0.01,1.122,0.0,0.5,118400.0,0.0,0.0,0,False,3,1.099,0.333,950.0,0.329,1,False,20.0,Humano
+tavo2366,GUSTAVO GONZALEZ GONZALEZ,4,0.0,1.507,0.0,0.333,117602.0,0.0,0.0,0,False,4,1.386,0.5,905.0,0.443,1,True,20.0,Humano
+Caplevi1540,El Capi 🇨🇱,19,0.0,1.309,0.0,0.056,157.0,0.0,0.0,0,False,9,2.142,0.421,1518.47,0.547,1,False,20.0,Humano
+KathyDS84,Kathy ⭐️,5,0.0,0.672,0.0,0.25,85.0,0.0,0.0,0,False,3,0.95,0.4,1004.6,0.219,1,False,20.0,Humano
+reloaled,Kamisama Reloaded,3,0.0,0.73,0.0,0.5,1517217.0,0.0,0.0,0,False,2,0.637,0.333,747.0,0.006,1,True,20.0,Humano
+DonLibrotecario,Don Librotecario🍉,3,0.0,1.04,0.0,0.5,1125747.0,0.0,0.0,0,False,2,0.637,0.667,3479.33,0.52,1,False,20.0,Humano
+SalvoMontalban6,Salvador MB,3,0.02,0.846,0.0,0.5,138012.0,0.0,0.0,0,False,3,1.099,0.333,426.67,0.207,1,False,20.0,Humano
+kevinestebancg,Kevin Canales,3,0.0,0.076,0.0,0.5,6749185.0,0.0,0.0,0,False,3,1.099,0.333,1031.67,0.242,1,False,20.0,Humano
+LaVonHayek,Hayek Milei 🗽 Team Toto,3,0.0,1.051,0.0,0.5,1646902.0,0.0,0.0,0,False,3,1.099,0.667,898.0,0.11,1,True,20.0,Humano
+koelner_haie,SALVA A CHILE🖐🇨🇱💪,3,0.0,0.661,0.0,0.5,1089880.0,0.0,0.0,0,False,3,1.099,0.333,452.67,0.169,1,True,20.0,Humano
+eldestapeweb,El Destape,3,0.0,1.356,0.0,0.5,91584.0,0.0,0.0,0,False,3,1.099,0.333,2214.67,0.139,1,True,20.0,Humano
+Andres_lat_,🇨🇱🌳Andrés Latorre🌳🇨🇱,3,0.0,1.361,0.0,0.5,130554.0,0.0,0.0,0,False,3,1.099,0.333,1493.0,0.519,1,False,20.0,Humano
+AdrianaVeterin,Adriana Martinez,3,0.0,0.441,0.0,0.5,4134093.0,0.0,0.0,0,False,3,1.099,0.333,6136.0,0.546,1,True,20.0,Humano
+ElCautiv0,S a n d í a 🍉 C a l a d a,5,0.0,1.341,0.0,0.25,818080.0,0.0,0.0,0,False,5,1.609,0.4,1634.8,0.384,1,False,20.0,Humano
+Bartjunior8324,🖐️Barto #ModoAnticomunista 🇨🇱 ☭⃠,4,0.0,0.52,0.0,0.333,4570387.0,0.0,0.0,0,False,4,1.386,0.5,969.75,0.572,1,False,20.0,Humano
+porkyasecas,Italo Rodriguez,5,0.0,1.385,0.0,0.25,460.0,0.0,0.0,0,False,3,1.055,1.0,930.0,0.208,1,False,20.0,Humano
+maca_santelices,Macarena Santelices Canas🖐️🇨🇱,6,0.0,1.157,0.0,0.2,520586.0,0.0,0.0,0,False,5,1.561,0.333,873.83,0.239,1,True,20.0,Humano
+Dariensilvat,DRN en Chilezuela 🇨🇱,5,0.0,0.497,0.0,0.25,1000156.0,0.0,0.0,0,False,3,1.055,0.4,620.2,0.008,1,False,20.0,Humano
+SGF76717518,Pollito🐣🧗🏻‍♀️🏔🏕🌳38%,3,0.0,0.055,0.0,0.5,2954776.0,0.0,0.0,0,False,2,0.637,0.667,399.0,0.439,1,False,20.0,Humano
+WendigoUprising,Wendigo,3,0.0,0.596,0.0,0.5,1153112.0,0.0,0.0,0,False,3,1.099,0.333,1357.67,0.281,1,False,20.0,Humano
+JoffreNicole,Nicole Joffre,3,0.0,0.715,0.0,0.5,1760829.0,0.0,0.0,0,False,3,1.099,0.333,824.67,0.01,1,False,20.0,Humano
+xixu_xxv,Lore🖐🏼🇨🇱,3,0.0,0.529,0.0,0.5,2757886.0,0.0,0.0,0,False,2,0.637,0.667,604.67,0.328,1,False,20.0,Humano
+matiaswalkerp,Matías Walker Prieto,4,0.0,1.153,0.0,0.333,783494.0,0.0,0.0,0,False,3,1.04,0.5,739.75,0.369,1,True,20.0,Humano
+Foxiinet,matte🦭,9,0.01,1.579,0.0,0.125,488.0,0.0,0.0,0,False,5,1.465,0.444,691.11,0.439,1,False,20.0,Humano
+jorge_kato,"Abogado Regio, Vato Protegido !!!",3,0.0,0.334,0.0,0.5,7887600.0,0.0,0.0,0,False,3,1.099,0.667,1015.0,0.827,1,True,20.0,Humano
+lauralbornoz,Laura Albornoz Pollmann,3,0.0,0.866,0.0,0.5,1452997.0,0.0,0.0,0,False,3,1.099,0.333,1720.33,0.371,1,False,20.0,Humano
+1965Paranormal,PLUMA BLANCA .,3,0.01,1.171,0.0,0.5,114239.0,0.0,0.0,0,False,2,0.637,0.0,1378.33,0.305,0,False,0.0,Humano
+Leftinformed,𝗡𝗮𝘁𝗮𝗹𝗶𝗮,4,0.0,0.845,0.0,0.333,131273.0,0.0,0.0,0,False,3,1.04,0.25,1881.5,0.867,0,False,0.0,Humano
+R_SaavedraM,Rodrigo Saavedra,4,0.0,1.471,0.0,0.333,17338.0,0.0,0.0,0,False,3,1.04,0.0,1637.75,0.477,0,True,0.0,Humano
+mirnaschindler,mirna schindler,3,0.0,1.414,0.0,0.5,0.0,0.333,0.333,0,False,2,0.637,0.0,943.0,0.034,0,False,0.0,Humano
+LucyHerSan,Lucila 🌳,4,0.0,0.176,0.0,0.333,3638330.0,0.0,0.0,0,False,4,1.386,0.0,1184.25,0.399,0,False,0.0,Humano
+Jfcardenasr,Impunidad el Mal de Chile,3,0.0,0.115,0.0,0.5,1400744.0,0.0,0.0,0,False,3,1.099,0.0,1545.67,0.746,0,False,0.0,Humano
+meganoticiascl,Meganoticias,12,0.0,0.957,0.0,0.091,0.0,0.083,0.083,0,False,9,2.023,0.083,1341.5,0.272,0,True,0.0,Humano
+Cadem_cl,Cadem_cl,8,0.0,0.884,0.0,0.143,1200.0,0.0,0.0,0,False,3,0.736,0.0,678.25,0.211,0,True,0.0,Humano
+alsurdelmundo__,Andy,4,0.01,0.856,0.0,0.333,6619.0,0.0,0.0,0,False,3,1.04,0.0,789.0,0.369,0,True,0.0,Humano
+ExpresoPeru,Diario Expreso,3,0.0,1.343,0.0,0.5,113996.0,0.0,0.0,0,False,3,1.099,0.0,747.67,0.026,0,True,0.0,Humano
+Patriick_Niico,Patrick Nico 🏳️‍🌈,3,0.0,1.414,0.0,0.5,0.0,0.333,0.333,0,False,2,0.637,0.0,2471.0,0.083,0,False,0.0,Humano
+juanif17,Juan I. Fernandez,3,0.0,1.41,0.0,0.5,11056.0,0.0,0.0,0,False,3,1.099,0.0,519.0,0.61,0,True,0.0,Humano
+ContrapoderCH,Contrapoderchile,6,0.01,0.595,0.0,0.2,121368.0,0.0,0.0,0,False,5,1.561,0.0,1082.5,0.255,0,True,0.0,Humano
+CesarLevin,ℂé𝕤𝕒𝕣 Antonio Levin Silva,4,0.01,0.775,0.0,0.333,49146.0,0.0,0.0,0,False,4,1.386,0.25,599.75,0.539,0,False,0.0,Humano
+MariaG91196097,MariaG⭐️,5,0.0,1.2,0.0,0.25,175185.0,0.0,0.0,0,False,4,1.332,0.0,1155.6,0.166,0,False,0.0,Humano
+JoseMezaPereira,José Carlos Meza 👍🇨🇱,6,0.0,0.971,0.0,0.2,4920.0,0.0,0.0,0,False,5,1.561,0.0,971.83,0.278,0,False,0.0,Humano
+Notiparaco,Alejandra,3,0.01,1.157,0.0,0.5,102868.0,0.0,0.0,0,False,3,1.099,0.0,2361.67,0.618,0,True,0.0,Humano
+mondini1912,MONDINI🇨🇱🖐5️⃣💪,3,0.01,0.134,0.0,0.5,581548.0,0.0,0.0,0,False,3,1.099,0.0,528.33,0.278,0,False,0.0,Humano
+PierreCurieD,Pierre Curie,4,0.0,0.635,0.0,0.333,608765.0,0.0,0.0,0,False,3,1.04,0.0,637.0,0.448,0,False,0.0,Humano
+Aedd38,Eduardo Aedd 38%,23,0.01,1.665,0.0,0.045,117.0,0.0,0.0,0,False,10,2.137,0.043,1480.78,0.946,0,False,0.0,Humano
+Resistenciaok,Resistencia Republicana,3,0.01,1.404,0.0,0.5,2985.0,0.0,0.0,0,False,3,1.099,0.0,750.33,1.015,0,True,0.0,Humano
+Anloque1948,Antonio López Q.,3,0.0,0.387,0.0,0.5,3724320.0,0.0,0.0,0,False,3,1.099,0.0,461.0,1.123,0,True,0.0,Humano
+MaffiaMateo,Mateo Maffia,4,0.02,1.481,0.0,0.333,446.0,0.0,0.0,0,False,3,1.04,0.25,4944.0,0.492,0,True,0.0,Humano
+claudionarea,Claudio Narea,3,0.0,1.256,0.0,0.5,166288.0,0.0,0.0,0,False,3,1.099,0.0,2508.0,0.769,0,False,0.0,Humano
+Sebasnoticias15,Sebastian Vicente Noticias,6,0.01,1.043,0.0,0.2,47447.0,0.0,0.0,0,False,5,1.561,0.167,772.83,0.208,0,True,0.0,Humano
+InterferenciaCL,Interferencia,4,0.0,1.189,0.0,0.333,340.0,0.0,0.0,0,False,2,0.693,0.0,632.5,0.189,0,False,0.0,Humano
+AlejandroVNorte,VientoNorte 🇨🇱,20,0.01,1.385,0.0,0.053,0.0,0.05,0.05,0,False,10,2.164,0.05,1758.85,0.541,0,False,0.0,Humano
+bacigalupe,Bacigalupe,3,0.01,0.97,0.0,0.5,281666.0,0.0,0.0,0,False,3,1.099,0.0,1828.33,0.416,0,False,0.0,Humano
+Jos3fita_,Josefa,5,0.0,1.132,0.0,0.25,65796.0,0.0,0.0,0,False,5,1.609,0.2,424.2,0.389,0,False,0.0,Humano
+XFarmer1977,No soy Bot 😎,14,0.01,2.015,0.0,0.077,1369.0,0.0,0.0,0,False,10,2.206,0.071,893.71,0.356,0,True,0.0,Humano
+FUNDIDOSxMILEI,FUNDIDOS x MILEI,3,0.0,0.764,0.0,0.5,1215941.0,0.0,0.0,0,False,3,1.099,0.0,775.0,0.156,0,True,0.0,Humano
+chilelibre2001,Chileno 4K⭐️,5,0.0,0.87,0.0,0.25,144704.0,0.0,0.0,0,False,3,0.95,0.2,1208.8,0.318,0,False,0.0,Humano
+k_zuela,Nico Falso Chileno 👨🏽‍🔬,3,0.0,1.06,0.0,0.5,769201.0,0.0,0.0,0,False,3,1.099,0.0,2164.67,0.225,0,False,0.0,Humano
+poirotes,Poirot Escovedo,3,1.11,0.57,0.0,0.5,2914.0,0.0,0.0,0,False,3,1.099,0.0,2908.0,0.484,0,True,0.0,Humano
+brigadachacon,brigada chacon ✌️,3,0.0,0.727,0.0,0.5,1415075.0,0.0,0.0,0,False,3,1.099,0.0,1135.67,0.167,0,False,0.0,Humano
+gonzalowinter,Gonzalo Winter 🇨🇱,3,0.0,1.032,0.0,0.5,620475.0,0.0,0.0,0,False,3,1.099,0.0,2160.0,0.387,0,True,0.0,Humano
+artes_oficial,Eduardo Artés #Artés2026,6,0.0,1.731,0.0,0.2,14069.0,0.0,0.0,0,False,5,1.561,0.0,2448.67,0.261,0,False,0.0,Humano
+berfontaine,Bernardo Fontaine,3,0.0,0.843,0.0,0.5,1290419.0,0.0,0.0,0,False,2,0.637,0.0,1675.0,0.552,0,False,0.0,Humano
+DFinanciero,Diario Financiero,5,0.01,1.114,0.0,0.25,12388.0,0.2,0.2,0,False,3,1.055,0.0,602.4,0.073,0,True,0.0,Humano
+elvillegaschile,El Villegas,6,0.0,1.352,0.0,0.2,8434.0,0.0,0.0,0,False,5,1.561,0.0,516.33,0.411,0,False,0.0,Humano
+JoseCuelloB,José Cuello B.,4,0.16,1.583,0.0,0.333,108.0,0.0,0.0,0,False,2,0.562,0.0,828.25,0.161,0,True,0.0,Humano
+MahuPablo,Pablo Mahu M.,4,0.0,1.487,0.0,0.333,96822.0,0.0,0.0,0,False,3,1.04,0.25,453.75,0.298,0,False,0.0,Humano
+triniturro,W O N D E R W O M A N ✨,3,0.06,1.341,0.0,0.5,4318.0,0.0,0.0,0,False,3,1.099,0.0,2336.33,0.25,0,False,0.0,Humano
+sepulvedamon,Mónica 🌳❤️ 🇨🇱,5,0.0,1.591,0.0,0.25,86189.0,0.0,0.0,0,False,3,1.055,0.0,755.6,0.242,0,False,0.0,Humano
+Politakeryx,👋🏻 Pᴼᴸᴵᵀᴬᴷᴱᴿᵞˣ ♥ Vᴵˢᶜᴱᴿᴬᴸᴹᴱᴺᵀᴱ Rᴱ Fᴬᶜᴴᴬ ☭⃠ 🇨🇱,7,0.0,1.032,0.0,0.167,0.0,0.143,0.143,0,False,4,1.277,0.143,699.29,0.552,0,True,0.0,Humano
+MdLimache,🌳🌳Perejil²⁵🌳🌳,4,0.0,0.635,0.0,0.333,1470056.0,0.0,0.0,0,False,3,1.04,0.25,1469.75,0.597,0,False,0.0,Humano
+intisumaj2,El Tío de Inti🌞,3,0.0,1.099,0.0,0.5,603850.0,0.333,0.333,0,False,2,0.637,0.0,14434.33,0.166,0,False,0.0,Humano
+marapoquindo3,MarApoquindo3,5,0.0,0.685,0.0,0.25,137201.0,0.0,0.2,0,False,4,1.332,0.0,932.8,0.161,0,True,0.0,Humano
+Foro_MAD,Foro Madrid,5,0.0,1.139,0.0,0.25,1.0,0.0,0.0,0,False,4,1.332,0.0,3317.4,0.693,0,True,0.0,Humano
+camilaemiliasv,Emilia 🇨🇱,3,0.01,1.321,0.0,0.5,44262.0,0.0,0.0,0,False,2,0.637,0.0,1779.67,0.586,0,True,0.0,Humano
+SchubertRubio,Stephan Schubert Diputado 👍🇨🇱,6,0.01,1.147,0.0,0.2,6059.0,0.0,0.0,0,False,4,1.33,0.0,1213.17,0.205,0,True,0.0,Humano
+jorgeerrazuriz,Jorge Errázuriz 🇨🇱,4,0.0,1.677,0.0,0.333,5976.0,0.0,0.0,0,False,4,1.386,0.0,816.0,0.709,0,True,0.0,Humano
+gastonoyarzun2,🇨🇱 Erwin Pempelfort 🇩🇪,3,0.0,1.343,0.0,0.5,202461.0,0.0,0.0,0,False,3,1.099,0.0,1183.33,0.346,0,False,0.0,Humano
+negromujica,Ignacio Mujica A.,4,0.0,1.01,0.0,0.333,14827.0,0.0,0.0,0,False,3,1.04,0.0,456.25,0.384,0,True,0.0,Humano
+Alejand88202848,Alejandro Fuentes,6,0.01,1.357,0.0,0.2,2836.0,0.0,0.0,0,False,5,1.561,0.0,1313.0,0.379,0,False,0.0,Humano
+aeztreal,aeztreal 4K💫,5,0.0,0.655,0.0,0.25,89991.0,0.0,0.0,0,False,5,1.609,0.2,691.8,0.457,0,False,0.0,Humano
+AvelloCarrillo,Alejandro Carrillo Avello🤖 #BotdeKast🇨🇱🐈🐈‍⬛,3,0.0,1.401,0.0,0.5,21048.0,0.0,0.0,0,False,3,1.099,0.0,548.0,0.258,0,False,0.0,Humano
+mmullor2016,Mónica Mullor/(2),3,0.0,0.772,0.0,0.5,1377821.0,0.0,0.0,0,False,3,1.099,0.0,819.0,0.335,0,False,0.0,Humano
+Tanjiro_patriot,🇨🇱 TANJIRO 🇨🇱,3,0.0,1.358,0.0,0.5,83536.0,0.0,0.0,0,False,3,1.099,0.0,1980.0,0.445,0,False,0.0,Humano
+ToroDeArena,Sebastian Toro 🇨🇴🇧🇷🇺🇲,4,0.0,1.054,0.0,0.333,468067.0,0.0,0.0,0,False,4,1.386,0.0,1502.75,0.487,0,True,0.0,Humano
+MariaFdaCabal,María Fernanda Cabal,3,0.0,0.343,0.0,0.5,1105100.0,0.0,0.0,0,False,2,0.637,0.0,3457.0,0.515,0,True,0.0,Humano
+GradeGeorge,Rafael Torreblanca 🇨🇱,4,0.0,0.873,0.0,0.333,623472.0,0.0,0.0,0,False,4,1.386,0.25,571.75,0.601,0,False,0.0,Humano
+miguelcgangel,Miguel Calderon,4,0.0,0.814,0.0,0.333,164332.0,0.0,0.0,0,False,4,1.386,0.0,519.25,0.448,0,True,0.0,Humano
+vivirechaza2,VIVIANA🇨🇱  ✪,5,0.01,1.076,0.0,0.25,48200.0,0.0,0.0,0,False,5,1.609,0.2,643.0,0.211,0,True,0.0,Humano
+STGOSeLevanta,SantiagoSeLevanta,4,0.01,0.781,0.0,0.333,170329.0,0.0,0.0,0,False,4,1.386,0.0,711.5,0.451,0,False,0.0,Humano
+Molotov1947,Claudio Marcelo Morales Killinger,9,0.0,0.963,0.0,0.125,27440.0,0.0,0.0,0,False,8,2.043,0.222,638.67,0.749,0,True,0.0,Humano
+LyaGonzalez1,Lya Gonzalez ✌️,3,0.0,0.549,0.0,0.5,3885674.0,0.0,0.0,0,False,2,0.637,0.0,1265.33,0.668,0,False,0.0,Humano
+danebersoh,Dane Bersöh 🇨🇱🌳🐶🐱,4,0.0,0.856,0.0,0.333,934153.0,0.0,0.0,0,False,4,1.386,0.0,2075.5,0.115,0,False,0.0,Humano
+sick_durden,Sick Durden,4,0.0,1.57,0.0,0.333,249214.0,0.0,0.0,0,False,4,1.386,0.0,504.0,0.129,0,True,0.0,Humano
+ELCLARINDECHILE,El Clarin de Chile,4,0.0,1.731,0.0,0.333,0.0,0.25,0.25,0,False,2,0.693,0.0,1304.0,0.346,0,False,0.0,Humano
+miguelfriasreca,Miguel Frías Recabarren 🇵🇸Libre,3,0.0,1.298,0.0,0.5,88579.0,0.0,0.0,0,False,2,0.637,0.0,940.33,0.287,0,False,0.0,Humano
+HermogenesPdA,HermógenesPdA,3,0.0,1.157,0.0,0.5,660455.0,0.0,0.0,0,False,3,1.099,0.0,1156.0,0.168,0,False,0.0,Humano
+fachininja,POLITICIDA,5,0.0,1.4,0.0,0.25,59025.0,0.0,0.0,0,False,5,1.609,0.0,2594.6,0.797,0,True,0.0,Humano
+Missmelindres,Hannah Escobar - 🐰,4,0.0,1.701,0.0,0.333,3117.0,0.0,0.0,0,False,4,1.386,0.0,785.5,0.5,0,True,0.0,Humano
+Cooperativa,Cooperativa,14,0.0,1.41,0.0,0.077,4928.0,0.0,0.0,0,False,10,2.206,0.0,1098.86,0.772,0,True,0.0,Humano
+AlanCespedes_Ar,"𝔸𝕝𝕒𝕟, +𝕃𝕚𝕓𝕖𝕣𝕥𝕒𝕕 -𝔼𝕤𝕥𝕒𝕕𝕠",5,0.0,0.522,0.0,0.25,1728284.0,0.0,0.0,0,False,4,1.332,0.2,1251.4,0.394,0,False,0.0,Humano
+Mart2Saco,"Manuel ,Socialdemócrata, Humanista 🏳️‍🌈🌹🇪🇦",3,0.0,0.788,0.0,0.5,1107634.0,0.0,0.0,0,False,3,1.099,0.0,4275.33,0.498,0,False,0.0,Humano
+ErestuFaloon,La Bonita de Puente Alto 🇨🇱🏳️‍🌈,4,0.01,0.601,0.0,0.333,479267.0,0.0,0.0,0,False,4,1.386,0.25,1134.5,0.413,0,False,0.0,Humano
+antipsicologa_,La AntiPsicóloga,4,0.0,0.825,0.0,0.333,352745.0,0.0,0.0,0,False,3,1.04,0.0,2706.5,0.419,0,True,0.0,Humano
+GARRONIERS,PEP''''💚🇨🇱👮‍♂️,3,0.0,0.625,0.0,0.5,3445562.0,0.0,0.0,0,False,3,1.099,0.0,494.67,0.473,0,False,0.0,Humano
+MarceTyS,Marce_Tyrer 🪏❤️💪🏽,3,0.0,0.874,0.0,0.5,855873.0,0.0,0.0,0,False,3,1.099,0.0,570.33,0.253,0,False,0.0,Humano
+___Pachi__,Pachi⚡,6,0.0,1.218,0.0,0.2,3599.0,0.0,0.0,0,False,4,1.33,0.167,1507.33,0.745,0,False,0.0,Humano
+areconstruir25,A Reconstruir Chile,4,0.0,1.04,0.0,0.333,603384.0,0.0,0.0,0,False,2,0.693,0.0,520.25,0.174,0,True,0.0,Humano
+Malditoooo_k,Maldito Kevin,3,0.0,0.153,0.0,0.5,4160430.0,0.0,0.0,0,False,3,1.099,0.0,2140.67,0.34,0,False,0.0,Humano
+KastTeniaRazon,Kast Tenía Razón.,4,0.0,0.932,0.0,0.333,615314.0,0.0,0.0,0,False,3,1.04,0.0,955.25,0.079,0,False,0.0,Humano
+RebecaGaeteS,Rebeca Gaete Santelices,4,0.0,1.474,0.0,0.333,291616.0,0.0,0.0,0,False,4,1.386,0.0,1669.75,0.142,0,False,0.0,Humano
+realsantig,Santiago Giraldo,5,0.0,0.789,0.0,0.25,20758.0,0.0,0.0,0,False,5,1.609,0.0,4418.2,0.384,0,True,0.0,Humano
+Divididos_Sumo,ElHarrygada,3,0.0,1.089,0.0,0.5,482404.0,0.0,0.0,0,False,3,1.099,0.0,1592.33,0.12,0,False,0.0,Humano
+matias_tl,Matías Sánchez 🪏,10,0.01,1.515,0.0,0.111,121.0,0.0,0.0,0,False,8,2.025,0.2,1199.0,0.391,0,False,0.0,Humano
+MaxLobosCL,Maximiliano Lobos Lacoste 🇨🇱,17,0.01,1.588,0.0,0.062,0.0,0.059,0.059,0,False,10,2.201,0.118,714.41,0.543,0,True,0.0,Humano
+ommm5555,Rafiki 🇨🇱 ✋,4,0.0,1.619,0.0,0.333,160964.0,0.0,0.0,0,False,4,1.386,0.0,1042.75,0.436,0,True,0.0,Humano
+CristianVialM,Cristian Vial,3,0.0,1.327,0.0,0.5,255675.0,0.0,0.0,0,False,3,1.099,0.0,2344.67,0.363,0,False,0.0,Humano
+gransopi,Gransopi Atreides del 38%,3,0.0,1.027,0.0,0.5,448423.0,0.0,0.0,0,False,3,1.099,0.0,468.33,0.51,0,False,0.0,Humano
+huacha_roja,Huacha Comunista,5,0.01,0.58,0.0,0.25,109596.0,0.0,0.0,0,False,3,1.055,0.0,1066.6,0.947,0,True,0.0,Humano
+derechista_,Maxi,34,0.01,1.733,0.0,0.03,0.0,0.029,0.029,0,False,14,2.471,0.147,755.79,0.382,0,False,0.0,Humano
+Kasterizador,Make Chile 5K Again 🖐️🇨🇱,217,0.03,3.424,0.051,0.051,0.0,0.051,0.051,0,False,18,2.733,0.101,708.05,0.828,0,False,0.0,Humano
+elliberocl,El Líbero,4,0.0,1.234,0.0,0.333,797386.0,0.0,0.0,0,False,3,1.04,0.0,728.75,0.181,0,True,0.0,Humano
+CarlaTornasol,Charlotte 🇨🇱 🎸🎬📚,12,0.0,1.344,0.0,0.091,69210.0,0.0,0.0,0,False,9,2.138,0.083,473.08,0.514,0,False,0.0,Humano
+PoliticaChileX,Política Chile,3,0.0,0.249,0.0,0.5,8112700.0,0.0,0.0,0,False,3,1.099,0.0,470.67,0.183,0,False,0.0,Humano
+maggieveranista,Patriota100%🤚🏻🇨🇱,83,0.01,2.322,0.0,0.012,469.0,0.0,0.024,0,False,17,2.658,0.024,1076.33,0.406,0,True,0.0,Humano
+Andre00244,𝓐𝓷𝓭𝓻𝓮𝓪𝓪𝓪𝓪𝓪💫,3,0.01,0.146,0.0,0.5,935157.0,0.0,0.0,0,False,3,1.099,0.0,781.0,0.769,0,True,0.0,Humano
+GiorgioJackson,Giorgio Jackson,3,0.0,1.356,0.0,0.5,150186.0,0.0,0.0,0,False,3,1.099,0.0,1460.33,0.012,0,True,0.0,Humano
+mauroandinoe,Mauro Andino Espinoza,4,0.0,1.458,0.0,0.333,240369.0,0.0,0.0,0,False,4,1.386,0.25,3578.5,0.45,0,True,0.0,Humano
+BotCheckerCL,Bot Checker 🤖,28,0.0,1.597,0.0,0.037,5447.0,0.0,0.0,0,False,14,2.546,0.036,1915.68,0.306,0,True,0.0,Humano
+Alberto85366967,Alberto J. Alfaro 🇨🇱 CHILENO 🇨🇱 PATRIOTA,3,0.0,0.99,0.0,0.5,1969838.0,0.0,0.0,0,False,3,1.099,0.0,1494.33,0.608,0,True,0.0,Humano
+GaelYeomans,Gael Yeomans,5,0.0,1.068,0.0,0.25,447323.0,0.0,0.0,0,False,5,1.609,0.0,2075.4,0.273,0,True,0.0,Humano
+ViejoLibertario,El Viejo Libertario.,3,0.0,1.227,0.0,0.5,846453.0,0.0,0.0,0,False,3,1.099,0.0,1781.67,0.731,0,True,0.0,Humano
+DiegoMac227,Escuela Austriaca de Economía 🇦🇷,6,0.0,1.308,0.0,0.2,6.0,0.0,0.0,0,False,4,1.33,0.0,539.5,0.215,0,True,0.0,Humano
+exantecl,Ex-Ante,15,0.0,1.121,0.0,0.071,5690.0,0.0,0.0,0,False,12,2.431,0.133,636.07,0.265,0,True,0.0,Humano
+rosamariaartal,Rosa María Artal,4,0.0,0.894,0.0,0.333,91088.0,0.0,0.0,0,False,4,1.386,0.0,1542.25,0.612,0,False,0.0,Humano
+Enrique53904974,Enrique Blanco Vidal,27,0.0,1.439,0.0,0.038,7688.0,0.0,0.0,0,False,14,2.484,0.148,1134.33,0.453,0,False,0.0,Humano
+T13,T13,33,0.01,1.997,0.0,0.031,359.0,0.0,0.0,0,False,16,2.431,0.03,1039.82,0.202,0,True,0.0,Humano
+PamJiles,#PamelaJilesDiputada,3,0.0,0.513,0.0,0.5,5224863.0,0.0,0.0,0,False,3,1.099,0.0,1515.67,0.5,0,True,0.0,Humano
+TuiteroMartin,Martin Tuitero,4,0.0,0.302,0.0,0.333,4403139.0,0.0,0.0,0,False,4,1.386,0.0,292.5,0.382,0,True,0.0,Humano
+Nachoetherno,El Nacho .,15,0.0,1.423,0.0,0.071,9150.0,0.0,0.0,0,False,10,2.211,0.067,1123.07,0.402,0,False,0.0,Humano
+SebastianRochaZ,Sebastian R.,37,0.01,2.718,0.0,0.028,808.0,0.0,0.0,0,False,15,2.529,0.135,1019.41,0.333,0,True,0.0,Humano
+santiuribedel,ꜱᴀɴᴛɪᴀɢᴏ ᴜʀɪʙᴇ,3,0.77,1.253,0.0,0.5,797.0,0.0,0.0,0,False,3,1.099,0.0,676.67,0.259,0,False,0.0,Humano
+winnerfibonac,WINNER FIBONAC - ANTICHILEVAMOS,3,0.0,1.414,0.0,0.5,2256.0,0.0,0.0,0,False,3,1.099,0.0,864.0,0.002,0,False,0.0,Humano
+Romanita_Honey,@Romanita 🖐️🤖 🇨🇱😎22% 44% 62%,22,0.0,1.766,0.0,0.048,10261.0,0.0,0.045,0,False,12,2.35,0.091,798.41,0.401,0,False,0.0,Humano
+astorgapa,patricia astorga,10,0.0,1.591,0.0,0.111,1115.0,0.0,0.0,0,False,9,2.164,0.2,1006.6,0.315,0,True,0.0,Humano
+diputadonaranjo,Jaime Naranjo,5,0.0,0.844,0.0,0.25,78198.0,0.0,0.0,0,False,4,1.332,0.0,1491.8,0.207,0,False,0.0,Humano
+Roja53C,Alicia Reportera del Pueblo(ExAbuela Combativa),24,0.0,1.414,0.0,0.043,2689.0,0.0,0.0,0,False,12,2.384,0.25,1053.04,0.525,0,True,0.0,Humano
+DatosAme24,DatoWorld,48,0.01,2.069,0.234,0.255,0.0,0.25,0.271,0,False,14,2.363,0.062,1428.92,0.259,0,True,0.0,Humano
+rodolfo_garciac,Rodolfo García 🇨🇱,13,0.0,1.236,0.0,0.083,1177.0,0.0,0.0,0,False,8,2.032,0.154,508.15,0.414,0,True,0.0,Humano
+manarellidiego,diego manarelli,5,0.0,1.701,0.0,0.25,290920.0,0.0,0.0,0,False,5,1.609,0.2,638.6,0.031,0,False,0.0,Humano
+pdhernandezf,Pedro David,4,0.0,0.946,0.0,0.333,598948.0,0.0,0.0,0,False,4,1.386,0.0,463.0,0.299,0,True,0.0,Humano
+Noalguve,𝓝𝓸𝓻𝓶𝓪𝓵𝔂 🌳 🍊💪🏼💪🏼🇨🇱,5,0.0,1.279,0.0,0.25,30558.0,0.0,0.0,0,False,5,1.609,0.2,792.2,0.485,0,False,0.0,Humano
+BartoloOpina,Bartolo,3,0.0,0.191,0.0,0.5,5287002.0,0.0,0.0,0,False,3,1.099,0.0,826.67,0.264,0,True,0.0,Humano
+COTOMATAMOROS_1,✞ COTO MATAMOROS ✞,4,0.0,1.396,0.0,0.333,87548.0,0.0,0.0,0,False,3,1.04,0.0,3667.75,0.473,0,True,0.0,Humano
+PotusAmarillo,Potus Amarillo,11,0.0,1.289,0.0,0.1,1647.0,0.0,0.0,0,False,10,2.272,0.182,874.18,0.54,0,True,0.0,Humano
+ElsaKekita,kekita,3,0.0,0.095,0.0,0.5,6279173.0,0.0,0.0,0,False,3,1.099,0.0,738.0,0.181,0,False,0.0,Humano
+agustinromerole,Agustín Romero Diputado K 94 🖐 🇨🇱,7,0.0,0.982,0.0,0.167,166067.0,0.0,0.0,0,False,5,1.475,0.0,1090.57,0.267,0,True,0.0,Humano
+ruth_hurtado_,Ruth Hurtado 🖐🏽🇨🇱,4,0.0,0.943,0.0,0.333,3244.0,0.0,0.0,0,False,3,1.04,0.0,1554.5,0.162,0,False,0.0,Humano
+EncuestasChil10,Encuestas Chile 🇨🇱,131,0.02,2.865,0.038,0.046,0.0,0.046,0.389,0,False,17,2.58,0.137,678.15,0.391,0,True,0.0,Humano
+PRChile,Partido Republicano,4,0.0,0.881,0.0,0.333,57354.0,0.0,0.0,0,False,4,1.386,0.0,644.0,0.522,0,True,0.0,Humano
+CataVelascoK,C a T a L i N a 🤍💙 🇨🇱,24,0.0,2.423,0.0,0.043,0.0,0.042,0.042,0,False,14,2.557,0.125,777.21,0.41,0,False,0.0,Humano
+mateoamayaq,Mateo Amaya Quimbayo,4,0.0,1.646,0.0,0.333,103543.0,0.0,0.0,0,False,4,1.386,0.0,702.0,0.192,0,True,0.0,Humano
+cristian_arayal,🇨🇱 𝐂𝐑𝐈𝐒𝐓𝐈𝐀́𝐍 𝐀𝐑𝐀𝐘𝐀 🖐️ DIPUTADO K88,46,0.01,1.751,0.0,0.022,4.0,0.0,0.0,0,False,17,2.704,0.065,1372.46,0.253,0,True,0.0,Humano
+vladomirosevic,Vlado Mirosevic,3,0.0,1.407,0.0,0.5,18184.0,0.0,0.333,0,False,3,1.099,0.0,950.67,0.354,0,True,0.0,Humano
+medixi,MEDIXI,14,0.0,2.203,0.0,0.077,14406.0,0.0,0.0,0,False,10,2.243,0.0,762.43,0.364,0,False,0.0,Humano
+joseantoniokast,José Antonio Kast Rist 🖐️🇨🇱,59,0.01,1.911,0.017,0.034,814.0,0.0,0.0,0,False,15,2.566,0.153,3459.03,0.635,0,True,0.0,Humano
+TERE_LAprofe73,PROFETERE,56,0.01,1.946,0.0,0.018,878.0,0.0,0.0,0,False,15,2.481,0.036,961.79,0.435,0,True,0.0,Humano
+JuanRamonCast12,Juan Ramon Castillo,4,0.01,0.773,0.0,0.333,79586.0,0.0,0.0,0,False,4,1.386,0.25,1042.0,0.029,0,False,0.0,Humano
+tere_marinovic,Tere Marinovic Vial,3,0.01,1.4,0.0,0.5,6110.0,0.0,0.0,0,False,3,1.099,0.0,2061.0,1.075,0,True,0.0,Humano
+caidodelcatre2,@caidodelcatre,3,0.0,0.941,0.0,0.5,2228204.0,0.0,0.0,0,False,3,1.099,0.0,718.67,0.185,0,False,0.0,Humano
+Marcelo66146051,Marcelo,4,0.0,0.964,0.0,0.333,11712.0,0.0,0.0,0,False,3,1.04,0.25,931.0,0.259,0,False,0.0,Humano
+24HorasTVN,24 Horas,20,0.0,1.562,0.0,0.053,0.0,0.15,0.15,0,False,12,2.346,0.05,1398.0,0.236,0,True,0.0,Humano
+VeronicaWelkner,Verónica en REsistencia 🖐 ☭⃠ 33K,5,0.0,0.496,0.0,0.25,2247059.0,0.0,0.0,0,False,5,1.609,0.0,919.6,0.494,0,False,0.0,Humano
+candrews_cl,Carlos Alberto Andrews 🇨🇱,26,0.0,1.509,0.0,0.04,155.0,0.0,0.038,0,False,12,2.288,0.038,732.92,0.329,0,True,0.0,Humano
+altashanta,lorem ipsum,5,0.0,1.04,0.0,0.25,20063.0,0.0,0.0,0,False,5,1.609,0.2,661.0,0.291,0,True,0.0,Humano
+hugoguionista,Hugo Morales🌈🌳#ChileSinFascismo⛔,37,0.01,1.709,0.0,0.028,213.0,0.081,0.135,0,False,11,2.181,0.108,1132.3,0.382,0,False,0.0,Humano
+invermel,Bob Lee,8,0.0,1.066,0.0,0.143,182807.0,0.0,0.0,0,False,5,1.386,0.0,1266.75,0.382,0,False,0.0,Humano
+PilarOpazoL,PILAR OPAZO ⭐ 🇨🇱 🇩🇪 KAISER 4K,5,0.0,1.263,0.0,0.25,7686.0,0.0,0.0,0,False,5,1.609,0.0,563.4,0.628,0,True,0.0,Humano
+El_Ciudadano,El Ciudadano,29,0.0,1.579,0.0,0.036,7975.0,0.0,0.0,0,False,14,2.492,0.0,1631.97,0.277,0,True,0.0,Humano
+ClaudioCrespoG,CLAUDIO CRESPO,3,0.0,1.29,0.0,0.5,619264.0,0.0,0.0,0,False,3,1.099,0.0,1992.0,0.588,0,True,0.0,Humano
+Partido_NL,Partido Nacional Libertario,3,0.01,0.442,0.0,0.5,387759.0,0.0,0.0,0,False,3,1.099,0.0,1363.33,0.057,0,False,0.0,Humano
+PatricioMery,Patricio Mery Bell 🔻🎗️,5,0.0,1.23,0.0,0.25,350596.0,0.0,0.0,0,False,4,1.332,0.0,1006.2,0.438,0,True,0.0,Humano
+neva_carrillo,dislexica,8,0.0,0.853,0.0,0.143,343158.0,0.0,0.0,0,False,3,0.9,0.0,684.62,0.441,0,False,0.0,Humano
+aprachile,APRA ARAUCANíA 👍🏽🇨🇱,25,0.0,2.037,0.0,0.042,723.0,0.0,0.0,0,False,12,2.266,0.0,748.84,0.881,0,True,0.0,Humano
+DRESTRUM__Pl,D я e S S 🔥,108,0.02,2.914,0.019,0.028,0.0,0.028,0.037,0,False,17,2.619,0.111,1583.77,0.364,0,True,0.0,Humano
+agarra_pala,Agarra la Pala,58,0.01,2.001,0.018,0.035,1800.0,0.0,0.0,0,False,16,2.671,0.069,1553.71,0.49,0,True,0.0,Humano
+zurditabella261,Pitonisa!! Extrema derecha.💅,12,0.0,0.903,0.0,0.091,44300.0,0.0,0.0,0,False,8,2.023,0.0,976.83,0.419,0,False,0.0,Humano
+JuanKBarth1,JuanKBarth 🇨🇱🇺🇲,17,0.0,1.49,0.0,0.062,4200.0,0.0,0.0,0,False,9,2.069,0.0,2496.06,0.671,0,True,0.0,Humano
+Patitoo_Verde,🦆 🦆 🦆🦆🦆🦆,4,0.0,1.551,0.0,0.333,538708.0,0.0,0.0,0,False,4,1.386,0.0,762.25,0.011,0,False,0.0,Humano
+SilvanaNHR,chilena de❤🇨🇱 22% original,21,0.0,1.804,0.0,0.05,1722.0,0.0,0.0,0,False,14,2.558,0.095,915.29,0.441,0,False,0.0,Humano
+Carolina_Toha,Carolina Tohá,5,0.0,1.015,0.0,0.25,263018.0,0.0,0.0,0,False,4,1.332,0.2,1680.4,0.49,0,False,0.0,Humano
+EstebanPaulon,Esteban Paulón,3,0.0,0.791,0.0,0.5,3761077.0,0.0,0.0,0,False,3,1.099,0.0,1879.0,0.622,0,True,0.0,Humano
+stanleybostero,Stanley del 56%,11,0.0,1.523,0.0,0.1,8214.0,0.0,0.0,0,False,10,2.272,0.182,1759.27,0.552,0,True,0.0,Humano
+solo_gemma,gemma🇨🇱,50,0.01,1.968,0.0,0.02,0.0,0.02,0.02,0,False,14,2.519,0.1,664.6,0.349,0,False,0.0,Humano
+Sebasti45781359,Sebastián Rivera⭐💚🇨🇱22% y 64% En Contra y PNL,5,0.0,0.688,0.0,0.25,2285960.0,0.0,0.0,0,False,5,1.609,0.2,513.8,0.793,0,False,0.0,Humano
+Jou_Kaiser,Johannes Kaiser. Diputado por el distrito 10,18,0.0,1.34,0.0,0.059,39251.0,0.0,0.0,0,False,13,2.366,0.0,3618.56,0.453,0,True,0.0,Humano
+desachile,Desarrollemos Chile,3,0.0,0.647,0.0,0.5,3636124.0,0.0,0.0,0,False,3,1.099,0.0,1825.0,0.818,0,True,0.0,Humano
+juanpabloswett,Juan Pablo Swett,4,0.0,1.289,0.0,0.333,488280.0,0.0,0.0,0,False,3,1.04,0.0,1385.5,0.44,0,True,0.0,Humano
+INSPECTORCRUSS1,INSPECTORCRUSS17 𝕏 🇨🇱 🇺🇸 🇮🇱,5,0.0,0.867,0.0,0.25,1301589.0,0.0,0.0,0,False,4,1.332,0.0,800.4,0.403,0,True,0.0,Humano
+mmlagoscc,Marta Lagos,22,0.0,1.577,0.0,0.048,238.0,0.0,0.0,0,False,11,2.248,0.136,1123.05,0.793,0,True,0.0,Humano
+grok,Grok,21,0.01,2.799,0.0,0.05,0.0,0.048,0.048,0,False,9,2.001,0.0,1089.0,0.449,0,True,0.0,Humano
+AndreaPeaceCL,🇨🇱Andrea-Chilena-Patriota⭐️🇨🇦🍁❤️🇨🇱,4,0.0,0.451,0.0,0.333,3708946.0,0.0,0.0,0,False,3,1.04,0.0,576.5,0.265,0,False,0.0,Humano
+valientesu,ValienteSu 🌈 38%,5,0.0,0.564,0.0,0.25,1041341.0,0.0,0.0,0,False,3,0.95,0.0,1142.8,0.172,0,False,0.0,Humano
+KekaBasualdo,Keka Basualdo,7,0.0,1.162,0.0,0.167,24953.0,0.0,0.0,0,False,5,1.55,0.0,984.14,0.39,0,True,0.0,Humano
+KarenKoetje,Karen Kötje 🇨🇱🇩🇪,3,0.0,0.317,0.0,0.5,3123550.0,0.0,0.0,0,False,3,1.099,0.0,1402.67,0.48,0,False,0.0,Humano
+FridaSiKahlo,FridaSíKahlo,12,0.0,1.576,0.0,0.091,13337.0,0.0,0.0,0,False,9,2.138,0.167,662.0,0.453,0,False,0.0,Humano
+janomatusmc,JanoMatus🇨🇱 Republicano,5,0.0,1.025,0.0,0.25,101705.0,0.0,0.0,0,False,4,1.332,0.2,1502.0,0.318,0,False,0.0,Humano
+Santiago_Oria,Santiago Oría,5,0.0,1.332,0.0,0.25,77907.0,0.0,0.0,0,False,4,1.332,0.0,1416.4,0.694,0,True,0.0,Humano
+Francis25830521,Francisco de La Diestra🇨🇱 (Capitán Hunter),8,0.0,1.292,0.0,0.143,18007.0,0.0,0.0,0,False,8,2.079,0.25,517.5,0.411,0,False,0.0,Humano
+a_ramos_1982,Kast a La Moneda 🇨🇱,6,0.0,1.034,0.0,0.2,23196.0,0.0,0.0,0,False,5,1.561,0.0,805.17,0.41,0,False,0.0,Humano
+macaghuidobro,Macarena García-Huidobro K 97 🖐️,6,0.0,0.82,0.0,0.2,191693.0,0.0,0.0,0,False,5,1.561,0.0,923.67,0.286,0,False,0.0,Humano
+LibertarianWeb,Libertarian Times,3,0.0,1.412,0.0,0.5,7970.0,0.0,0.0,0,False,3,1.099,0.0,876.67,0.885,0,True,0.0,Humano
+MaxKaiser75,Max Kaiser,5,0.0,0.923,0.0,0.25,343.0,0.0,0.0,0,False,4,1.332,0.2,4166.2,0.454,0,True,0.0,Humano
+Daniel399492892,DANIEL🗽🥤,6,0.0,0.866,0.0,0.2,590949.0,0.0,0.0,0,False,3,1.011,0.167,796.67,0.267,0,False,0.0,Humano
+JackedIn,Neuroc 0-Lantern,15,0.0,1.269,0.0,0.071,48895.0,0.0,0.0,0,False,9,2.119,0.133,1234.27,0.45,0,True,0.0,Humano
+AndresGiordanoS,Andrés Giordano Diputado D9,4,0.0,0.66,0.0,0.333,711410.0,0.0,0.0,0,False,4,1.386,0.0,1732.75,0.166,0,True,0.0,Humano
+mario_dico50,Mario Di Costanzo,4,0.0,0.448,0.0,0.333,2623170.0,0.0,0.0,0,False,4,1.386,0.25,2865.0,0.321,0,True,0.0,Humano
+Fcancinov,Francisco Cancino,3,0.0,1.176,0.0,0.5,517440.0,0.0,0.0,0,False,2,0.637,0.0,551.33,0.072,0,True,0.0,Humano
+ipoduje,Ivan Poduje,12,0.0,1.493,0.0,0.091,2478.0,0.0,0.0,0,False,10,2.254,0.25,1383.08,1.364,0,True,0.0,Humano
+rholeg,Ricardo Hole,4,0.0,1.64,0.0,0.333,79326.0,0.0,0.0,0,False,4,1.386,0.0,825.25,0.44,0,False,0.0,Humano
+Trumperizar,Mati Smith🇦🇷,3,0.0,1.408,0.0,0.5,11300.0,0.0,0.0,0,False,3,1.099,0.0,3812.33,0.213,0,True,0.0,Humano
+cleporati,cristian leporati,8,0.0,0.984,0.0,0.143,211061.0,0.0,0.0,0,False,5,1.386,0.0,506.0,0.526,0,True,0.0,Humano
+DalasReview,Dalas Review 🍞🐝🎖,4,0.0,1.725,0.0,0.333,4502.0,0.0,0.0,0,False,4,1.386,0.0,873.0,0.159,0,True,0.0,Humano
+Danky73,Danky🇨🇱,4,0.01,1.476,0.0,0.333,18893.0,0.0,0.0,0,False,3,1.04,0.0,1950.5,0.323,0,False,0.0,Humano
+Ferantonia28,Fernanda,3,0.01,0.359,0.0,0.5,364571.0,0.0,0.0,0,False,3,1.099,0.0,1360.0,0.123,0,False,0.0,Humano
+GaloLaraY,Galo Lara Y.,3,0.04,0.271,0.0,0.5,107268.0,0.0,0.0,0,False,3,1.099,0.0,1403.33,0.532,0,True,0.0,Humano
+chile_espanol,CÑÑ Chile.,5,0.0,0.813,0.0,0.25,163371.0,0.0,0.0,0,False,4,1.332,0.2,1084.8,0.169,0,False,0.0,Humano
+FaresJadue,Fares Jadue Leiva,3,0.0,0.928,0.0,0.5,1041234.0,0.0,0.0,0,False,3,1.099,0.0,827.0,0.263,0,False,0.0,Humano
+cnashr,Claudio Nash,3,0.0,0.975,0.0,0.5,1056811.0,0.0,0.0,0,False,3,1.099,0.0,1363.67,0.129,0,True,0.0,Humano
+emischneiderv,Emilia Schneider,3,0.01,0.035,0.0,0.5,589701.0,0.0,0.0,0,False,2,0.637,0.0,1625.67,0.364,0,True,0.0,Humano
+MarcoMira20,Marco Jara 🇨🇱🚨,14,0.0,1.411,0.0,0.077,4678.0,0.0,0.0,0,False,11,2.243,0.143,2243.64,0.461,0,False,0.0,Humano
+uchileradio,Radio Universidad de Chile,6,0.0,1.541,0.0,0.2,6896.0,0.0,0.0,0,False,5,1.561,0.0,2486.17,0.212,0,False,0.0,Humano
+danimanouchehri,Daniel Manouchehri,9,0.0,2.584,0.0,0.125,8875.0,0.111,0.111,0,False,8,2.043,0.0,2504.22,0.51,0,True,0.0,Humano
+MSEQUEYRO,Maria Elena Sequeyro 🇲🇽🐦,5,0.0,1.379,0.0,0.25,528563.0,0.0,0.0,0,False,4,1.332,0.0,655.0,0.118,0,False,0.0,Humano
+dmorales4m,DM,10,0.0,1.097,0.0,0.111,0.0,0.1,0.1,0,False,8,2.025,0.1,954.3,0.292,0,False,0.0,Humano
+traviejita_,Traviejita 🐝🖐🏻,3,0.0,0.471,0.0,0.5,3723135.0,0.0,0.0,0,False,3,1.099,0.0,989.33,0.313,0,False,0.0,Humano
+thecliniccl,The Clinic,22,0.0,1.404,0.0,0.048,3122.0,0.091,0.091,0,False,11,2.248,0.136,962.68,0.229,0,True,0.0,Humano
+DanielSanin,Daniel Sanín,4,0.0,1.351,0.0,0.333,78539.0,0.0,0.0,0,False,4,1.386,0.25,722.75,0.479,0,True,0.0,Humano
+satoruswft,michu🌙,3,0.0,1.063,0.0,0.5,1372112.0,0.0,0.0,0,False,2,0.637,0.0,4693.0,0.144,0,False,0.0,Humano
+luis_toro_t,Luis Toro,3,0.0,1.386,0.0,0.5,51757.0,0.0,0.0,0,False,2,0.637,0.0,445.33,0.28,0,False,0.0,Humano
+SantanaCamus,Raúl,6,0.0,0.612,0.0,0.2,785301.0,0.0,0.0,0,False,5,1.561,0.167,956.83,0.244,0,False,0.0,Humano
+cfelmerv,Christel Felmer 🖐 💙🇨🇱,3,0.0,1.394,0.0,0.5,129374.0,0.0,0.0,0,False,2,0.637,0.0,614.67,0.468,0,False,0.0,Humano
+milenadiaz1102,milena,4,0.0,1.381,0.0,0.333,756024.0,0.0,0.0,0,False,4,1.386,0.25,607.75,0.413,0,False,0.0,Humano
+ElTioMamo,E̳l̳ ̳T̳í̳o̳ ̳M̳a̳m̳o̳ ✍🏻 ツ 🇨🇱,5,0.0,1.284,0.0,0.25,1537.0,0.0,0.0,0,False,4,1.332,0.0,637.4,0.715,0,True,0.0,Humano
+Piniisima,Carlos Piña,5,0.0,1.18,0.0,0.25,25059.0,0.0,0.0,0,False,5,1.609,0.2,793.0,0.035,0,True,0.0,Humano
+dipuBobadilla,Diputado Sergio Bobadilla 🇨🇱,11,0.0,1.398,0.0,0.1,8197.0,0.0,0.0,0,False,9,2.098,0.091,1063.18,0.583,0,True,0.0,Humano
+Carloszzasa,CarlosBSassa,8,0.0,1.552,0.0,0.143,258463.0,0.0,0.0,0,False,4,1.255,0.0,836.25,0.454,0,False,0.0,Humano
+Javiera08494622,Javiera 4K⭐️ #22% 44% 62% 🇨🇱🇨🇱🇨🇱,20,0.0,1.162,0.0,0.053,606.0,0.0,0.0,0,False,12,2.415,0.15,756.75,0.3,0,False,0.0,Humano
+WenaChile,WenaChile,30,0.01,1.743,0.0,0.034,58.0,0.1,0.133,0,False,10,2.119,0.067,1782.47,0.319,0,False,0.0,Humano
+xxxxxxx03474898,A,3,0.02,1.413,0.0,0.5,228.0,0.0,0.0,0,False,2,0.637,0.0,1118.67,0.821,0,False,0.0,Humano
+Informa3Chile,(FRAPP)🇵🇸🇨🇱 EN LA JARANETA ✊️ #Jara2026,147,0.03,3.105,0.027,0.027,0.0,0.027,0.027,0,False,18,2.73,0.129,1297.43,0.488,0,False,0.0,Humano
+hernan_sr,H,65,0.01,2.09,0.0,0.016,1280.0,0.0,0.0,0,False,19,2.717,0.062,1742.98,0.641,0,True,0.0,Humano
+RodRettig,Rodrigo A. Rettig V. 🇨🇱,3,0.0,0.759,0.0,0.5,4322056.0,0.0,0.0,0,False,2,0.637,0.0,942.0,0.212,0,True,0.0,Humano
+marthaperaltae,Martha Peralta Epieyú,3,0.0,1.172,0.0,0.5,244419.0,0.0,0.0,0,False,2,0.637,0.0,1971.0,0.328,0,True,0.0,Humano
+TommyShelby_30,SheIby,3,0.0,1.389,0.0,0.5,166168.0,0.0,0.0,0,False,3,1.099,0.0,1120.0,0.606,0,True,0.0,Humano
+p4purrip0p,🅿️🅰️🅿️🆄®️®️1️⃣🅿️🅾️🅿️,10,0.0,0.947,0.0,0.111,129106.0,0.0,0.0,0,False,10,2.303,0.0,2599.8,0.271,0,False,0.0,Humano
+sergiou01329861,Sergio Ulloa 🇨🇱,30,0.01,1.699,0.069,0.103,0.0,0.1,0.1,0,False,14,2.451,0.033,1199.6,0.201,0,True,0.0,Humano
+matiasramirezpa,Matias Ramirez Pascal,4,0.0,1.197,0.0,0.333,509379.0,0.0,0.0,0,False,4,1.386,0.0,723.5,0.403,0,True,0.0,Humano
+evelynmatthei,Evelyn Matthei,11,0.0,1.307,0.0,0.1,58932.0,0.0,0.0,0,False,8,2.02,0.182,3274.73,0.377,0,True,0.0,Humano
+estamosconboric,Boric Estamos Contigo,12,0.0,1.347,0.0,0.091,11370.0,0.0,0.0,0,False,9,2.095,0.083,1331.08,0.419,0,True,0.0,Humano
+ENRIQUEBEN34952,ENRIQUEBENJAMIN,4,0.0,1.705,0.0,0.333,16733.0,0.0,0.0,0,False,4,1.386,0.0,1021.0,0.195,0,False,0.0,Humano
+MateconMote,Mate con Mote,28,0.01,1.485,0.0,0.037,0.0,0.036,0.036,0,False,15,2.571,0.214,1235.46,0.3,0,True,0.0,Humano
+Actiniariahexa,Anémona💮,4,0.0,0.615,0.0,0.333,1215439.0,0.0,0.0,0,False,4,1.386,0.0,2713.0,0.22,0,False,0.0,Humano
+baradit,Jorge Baradit Morales,20,0.01,1.343,0.0,0.053,451.0,0.0,0.0,0,False,10,2.224,0.05,1632.65,0.624,0,False,0.0,Humano
+Jorge_BastidasR,Jorge Bastidas - Pacto Histórico Cauca,3,0.0,1.414,0.0,0.5,5.0,0.0,0.0,0,False,2,0.637,0.0,576.67,0.306,0,True,0.0,Humano
+PETRIIISTAAAAS,FRANKPORTILLA,6,0.0,0.709,0.0,0.2,228.0,0.0,0.0,0,False,5,1.561,0.167,999.5,0.373,0,True,0.0,Humano
+RevisionistaCL,Revisionista,8,0.0,0.992,0.0,0.143,4883.0,0.0,0.0,0,False,8,2.079,0.125,668.0,0.355,0,False,0.0,Humano
+AngelDLaCruz_,𝔸𝕟𝕘𝕖𝕝 𝔻𝕖 𝕃𝕒 ℂ𝕣𝕦𝕫 ✝️🇨🇱,3,0.0,1.037,0.0,0.5,2415568.0,0.0,0.0,0,False,3,1.099,0.0,496.67,0.246,0,False,0.0,Humano
+LaTrujo,Ximena Trujillo 🇨🇱✊🏼🇨🇱,5,0.0,0.249,0.0,0.25,3200906.0,0.0,0.0,0,False,4,1.332,0.0,783.6,0.412,0,False,0.0,Humano
+mattsalic,mattsalic,8,0.0,1.653,0.0,0.143,3886.0,0.0,0.0,0,False,8,2.079,0.125,1242.0,0.723,0,True,0.0,Humano
+kyngofactos,kyngo,4,0.02,1.208,0.0,0.333,40988.0,0.0,0.0,0,False,4,1.386,0.25,1254.0,0.074,0,True,0.0,Humano
